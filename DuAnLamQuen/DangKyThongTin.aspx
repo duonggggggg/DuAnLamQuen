@@ -29,7 +29,7 @@
             </div>
             <div class="row mb-2">
                 <div class="col-2">
-                    Giới Tính 
+                    Giới Tính jmmjk
                 </div>
                 <div class="col-8">
                     <asp:RadioButton ID="rdNam" Checked="true" Text="Nam" runat="server" GroupName="GT" />
